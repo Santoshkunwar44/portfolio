@@ -1,0 +1,93 @@
+.contact {
+  height: 100vh;
+  margin-top: 70px;
+  position: relative;
+}
+.c-bg {
+  position: absolute;
+  height: 100vh;
+  background-color: #8e44ad;
+  width: 20px;
+}
+.c-wrapper {
+  display: flex;
+  padding: 50px;
+}
+.c-left {
+  flex: 1;
+}
+.c-right {
+  flex: 1;
+  display: flex;
+
+  justify-content: center;
+  flex-direction: column;
+}
+.c-title {
+  
+  line-height: 40px;
+  letter-spacing: 1.2px;
+
+}
+.c-main-title{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+.c-firstSpan{
+    color: rebeccapurple;
+    display: block;
+
+}
+.c-secondSpan{
+    font-size: 20px;
+}
+.icon {
+  font-size: 30px;
+  color: rebeccapurple;
+  padding-right: 20px;
+}
+.c-info-item {
+  font-weight: 400;
+  padding-left: 30px;
+  margin: 20px 10px;
+}
+.c-info {
+  margin-top: 20px;
+}
+.right-desc{
+    font-weight:400;
+}
+input {
+  border: none;
+  outline: none;
+  border-bottom: 1px solid black;
+  height: 30px;
+  width: 90%;
+  margin: 20px 0;
+  font-size: 14px;
+  padding-left: 10px;
+}
+
+textarea {
+  border: none;
+  outline: none;
+  border-bottom: 1px solid black;
+  height: 50px;
+  width: 70%;
+  margin: 10px 0;
+  font-size: 14px;
+  padding-left: 10px;
+}
+button{
+    padding: 8px 12px;
+    color: white;
+    background-color: purple;
+    font-size: 16px;
+    display: block;
+    border: none;
+    outline: none;
+}
+form {
+margin-top: 20px;
+}
