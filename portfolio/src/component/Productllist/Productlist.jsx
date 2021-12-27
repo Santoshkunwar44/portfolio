@@ -3,7 +3,7 @@ import "./Productlist.css"
 function Productlist() {
     return (
         <div>
-            PRODUCT
+            PRODUCTss
         </div>
     )
 }
