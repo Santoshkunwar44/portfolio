@@ -18,9 +18,8 @@ function Intro() {
             </div>
           </div>
           <div className="i-desc">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Consequatur distinctio nihil quae modi ipsam rerum aspernatur vero!
-            Lorem ipsum dolor sit.\
+          I am a FullStak MERN developer . Experienced with 2 years of web developing Works & numerous Projects .
+            Currently Working remotely as a Freelancer building my loving clients'  small & large Scale businesses Web Application.
           </div>
         </div>
       </div>

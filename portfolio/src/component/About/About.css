@@ -29,7 +29,7 @@
     width: 60%;
     height: 70vh;
     border-radius: 20px;
-    position: absolute;
+    position: relative;
 
 }
 .a-img{
@@ -51,4 +51,27 @@
 }
 .a-award-desc{
     width: 60%;
+
+
+}
+@media  screen and (max-width:480px) {
+    .a{
+        flex-direction: column;
+        margin-top: 50px;
+        text-align: center;
+    }
+    .a-left{
+        width: 100%;
+    }
+
+    .a-card{
+        height: 30vh;
+
+    }
+    .a-card.bg , .a-award{
+        display: none;
+    }
+    .a-right{
+        padding: 20px;
+    }
 }

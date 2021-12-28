@@ -16,7 +16,14 @@
     width: 25px;
     height: 25px;
     border-radius: 50%;
-    background-color: rgb(160, 0, 223);
+    /* left: 25px; */
+    background-color: rgb(121, 18, 162);
     position: absolute;
     cursor: pointer;
+}
+.fa-sun{
+    color: rgb(43, 0, 60);
+}
+.fa-moon{
+    color: rgb(29, 29, 130);
 }

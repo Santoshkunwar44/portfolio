@@ -9,7 +9,6 @@ function About() {
           <div className="a-card">
             <img src="https://images.pexels.com/photos/7605222/pexels-photo-7605222.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="" className='a-img' />
           </div>
-
         </div>
         <div className="a-right">
           <h1>About Me</h1>
